@@ -82,7 +82,7 @@ This will produce:
 ```css
 .spaced-x-1 > div, 
 .spaced-x-1 > p {
-  margin-right: 1px; 
+  margin-right: .25rem; 
 }
 .spaced-x-1 > div:last-child, 
 .spaced-x-1 > p:last-child 
