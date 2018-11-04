@@ -1,0 +1,14 @@
+{
+  "name": "tailwindcss-spaced-items",
+  "version": "0.1.0",
+  "description": "Tailwind plugin to generate classes for setting fixed space between containers child elements.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:n1kk/tailwind-color-vars.git"
+  },
+  "scripts": {},
+  "author": "n1kk",
+  "keywords": ["tailwindcss", "tailwind", "plugin", "spaced items", "child margin"],
+  "license": "MIT"
+}
