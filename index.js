@@ -2,7 +2,7 @@ module.exports = function spacedItems({ values, children = ['*']} = {}) {
   return function tailwindSpacedItems({ addUtilities, addUtilitiesaddComponents, e, prefix, config }) {
     let css = {}
     if (!values) {
-      values = config('margin')
+      values = Object.assign({}, config('margin'))
       delete values['auto']
     }
     
