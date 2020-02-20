@@ -32,6 +32,6 @@ module.exports = function spacedItems({ values, children = ['*']} = {}) {
   
     })
     
-    addUtilities(css)
+    addUtilities(css, { variants: ['responsive'] })
   }
 }
