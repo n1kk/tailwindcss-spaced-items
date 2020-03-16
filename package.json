@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-spaced-items",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tailwind plugin to generate classes for setting fixed space between containers child elements.",
   "main": "index.js",
   "repository": {
